@@ -1,0 +1,1 @@
+{"version":1,"defects":{"stringTest::testThatStringMatch":3,"stringTest::testThatNumberAddsUp":3,"CartTest::the_cart_tax_value_can_be_changed":3},"times":{"stringTest::testThatStringMatch":0.003,"stringTest::testThatNumberAddsUp":0.001,"CartTest::testCorrectNetPriceIsReturned":0.017,"CartTest::the_cart_tax_value_can_be_changed":0.017}}
